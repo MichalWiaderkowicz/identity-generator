@@ -4,6 +4,7 @@ const genders = ["M", "F"];
 const maleNames = [Adam, Bartosz, Cezary, Dariusz, Ernest];
 const femaleNames = [Aleksandra, Barbara, Celina, Danuta, Ewa];
 const lastNames = [Antczak, Braszak, Chyra, Dudek, Eward];
+const people = [];
 
 const randChoice = (arr) => {
   if (arr.length === 0) {
