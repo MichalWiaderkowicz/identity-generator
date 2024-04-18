@@ -1,9 +1,9 @@
 const fs = require("fs");
 
 const genders = ["M", "F"];
-const maleNames = [Adam, Bartosz, Cezary, Dariusz, Ernest];
-const femaleNames = [Aleksandra, Barbara, Celina, Danuta, Ewa];
-const lastNames = [Antczak, Braszak, Chyra, Dudek, Eward];
+const maleNames = ["Adam", "Bartosz", "Cezary", "Dariusz", "Ernest"];
+const femaleNames = ["Aleksandra", "Barbara", "Celina", "Danuta", "Ewa"];
+const lastNames = ["Antczak", "Braszak", "Chyra", "Dudek", "Eward"];
 const people = [];
 
 const randChoice = (arr) => {
@@ -37,3 +37,13 @@ for (let i = 0; i < 20; i++) {
 
   people.push(person);
 }
+
+const jsonData = JSON.stringify(people, null, 2);
+
+fs.writeFile("people.json", jsonData, (err) => {
+  if (err) {
+    console.log("Something went wrong :(");
+  } else {
+    console.log("Everything is ok!!! Check people.json");
+  }
+});

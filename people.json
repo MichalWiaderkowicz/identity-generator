@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "gender": "F",
+    "firstName": "Ewa",
+    "lastName": "Braszak",
+    "age": 31
+  },
+  {
+    "id": 2,
+    "gender": "M",
+    "firstName": "Bartosz",
+    "lastName": "Dudek",
+    "age": 36
+  },
+  {
+    "id": 3,
+    "gender": "M",
+    "firstName": "Bartosz",
+    "lastName": "Eward",
+    "age": 63
+  },
+  {
+    "id": 4,
+    "gender": "M",
+    "firstName": "Dariusz",
+    "lastName": "Eward",
+    "age": 69
+  },
+  {
+    "id": 5,
+    "gender": "F",
+    "firstName": "Barbara",
+    "lastName": "Dudek",
+    "age": 27
+  },
+  {
+    "id": 6,
+    "gender": "M",
+    "firstName": "Ernest",
+    "lastName": "Eward",
+    "age": 59
+  },
+  {
+    "id": 7,
+    "gender": "M",
+    "firstName": "Dariusz",
+    "lastName": "Dudek",
+    "age": 67
+  },
+  {
+    "id": 8,
+    "gender": "M",
+    "firstName": "Dariusz",
+    "lastName": "Eward",
+    "age": 75
+  },
+  {
+    "id": 9,
+    "gender": "F",
+    "firstName": "Barbara",
+    "lastName": "Braszak",
+    "age": 73
+  },
+  {
+    "id": 10,
+    "gender": "F",
+    "firstName": "Aleksandra",
+    "lastName": "Antczak",
+    "age": 56
+  },
+  {
+    "id": 11,
+    "gender": "F",
+    "firstName": "Barbara",
+    "lastName": "Braszak",
+    "age": 39
+  },
+  {
+    "id": 12,
+    "gender": "F",
+    "firstName": "Ewa",
+    "lastName": "Antczak",
+    "age": 27
+  },
+  {
+    "id": 13,
+    "gender": "F",
+    "firstName": "Danuta",
+    "lastName": "Eward",
+    "age": 22
+  },
+  {
+    "id": 14,
+    "gender": "F",
+    "firstName": "Celina",
+    "lastName": "Chyra",
+    "age": 24
+  },
+  {
+    "id": 15,
+    "gender": "F",
+    "firstName": "Ewa",
+    "lastName": "Chyra",
+    "age": 61
+  },
+  {
+    "id": 16,
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Dudek",
+    "age": 78
+  },
+  {
+    "id": 17,
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Chyra",
+    "age": 38
+  },
+  {
+    "id": 18,
+    "gender": "M",
+    "firstName": "Cezary",
+    "lastName": "Antczak",
+    "age": 50
+  },
+  {
+    "id": 19,
+    "gender": "F",
+    "firstName": "Celina",
+    "lastName": "Eward",
+    "age": 43
+  },
+  {
+    "id": 20,
+    "gender": "M",
+    "firstName": "Cezary",
+    "lastName": "Dudek",
+    "age": 41
+  }
+]
